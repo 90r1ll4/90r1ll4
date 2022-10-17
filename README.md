@@ -1,4 +1,5 @@
-# Hi there 👋, Ashwin Singh here. 
+<h1 align="center">Hi there 👋 </h1>
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=90r1ll4.repoName) [![GitHub followers](https://img.shields.io/github/followers/90r1ll4.svg?style=social&label=Follow)](https://github.com/90r1ll4?tab=followers)<br/>
 
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -7,7 +8,6 @@
 
 🌱 I’m currently working as DevSecOps Engineer. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Binary Exploitation, Malware analysis, and Network VAPT**
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to do photography, 🖌️ playing CTFs.
 
 <h3 align="left">Languages and Tools:</h3>
