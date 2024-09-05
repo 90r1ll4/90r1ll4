@@ -6,8 +6,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-🌱 I’m currently working as DevSecOps Engineer. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Binary Exploitation, Malware analysis, and Network VAPT**
+🌱 I’m currently working as Product Security Engineer (Embedded/IOT Security). I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Binary Exploitation, Malware analysis, and DevSecOps**
 - Outside tech, 📖 I love to do photography, 🖌️ playing CTFs.
 
 <h3 align="left">Languages and Tools:</h3>
